@@ -1,2 +1,8 @@
 // write your code below!
-var date = "July 3rd"
+function happyHolidays() {
+  return "Happy holidays!"
+}
+
+function happyHolidaysTo() {
+  
+}
